@@ -6,3 +6,19 @@ A) Para actualizar mi repositorio al estado que este el repo original, debo volv
 B) Si, puede
 C) Si, se puede.
 D) No :).
+E)
+ALFA USO:
+GIT CLONE
+GIT ADD .
+GIT COMMIT -M
+GIT PUSH
+GAMMA USO:
+GIT CLONE
+GIT ADD .
+GIT COMMIT -M
+GIT PUSH
+BETA USO:
+GIT CLONE
+GIT ADD .
+GIT COMMIT -M
+GIT PUSH
